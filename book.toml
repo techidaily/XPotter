@@ -1,0 +1,11 @@
+[book]
+authors = ["Techidaily"]
+language = "en"
+multilingual = false
+src = "src"
+title = "XPotter"
+description = "The site of the XPotter application."
+
+[build]
+build-dir = "docs"
+create-missing = false
