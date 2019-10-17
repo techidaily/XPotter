@@ -7,5 +7,5 @@ title = "XPotter"
 description = "The site of the XPotter application."
 
 [build]
-build-dir = "docs"
+build-dir = "../../products/xpotter"
 create-missing = false
