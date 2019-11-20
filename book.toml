@@ -8,4 +8,7 @@ description = "The site of the XPotter application."
 
 [build]
 build-dir = "../../products/xpotter"
-create-missing = false
+create-missing = true
+
+[output.html]
+git-repository-url = "https://github.com/techidaily/xpotter/"
