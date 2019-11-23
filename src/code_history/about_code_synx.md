@@ -18,3 +18,7 @@
 1. 前端所有的消息都靠这个来处理： `Sources/Editor/Core/CoreNotification.swift`
 
 ## 更新说明
+
+### 2019.11.20
+
+* `~/GitHub/rust-lang/good-projects/bat/assets/syntaxes` 版本号：9b1930b2b303309374502dc98989322a8ddd15be
