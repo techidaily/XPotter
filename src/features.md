@@ -3,9 +3,11 @@
 What’s new in XPotter.  
 We're updating XPotter regularly. Check back here to see the latest improvements and newest features.  
 
-## Nov 28 2019
+## Nov 30 2019
 
-* Support 135 lanuages.
+First publish
+
+* Support 135 languages.
   - 0 : "ARM Assembly"
   - 1 : "ASP"
   - 2 : "AWK"
@@ -142,6 +144,7 @@ We're updating XPotter regularly. Check back here to see the latest improvements
   - 133 : "syslog"
   - 134 : "varlink"
 
-* Support multiple editor tabs
-* Support multiple editor window
+* Support multiple editor tabs.
+* Support multiple editor window.
 * Support multiple editor code themes.
+* Support revert save.
