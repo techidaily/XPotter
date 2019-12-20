@@ -1,9 +1,16 @@
 # XPotter Features
 
-What’s new in XPotter.  
+Thank you for using XPotter. We are always looking to update XPotter to bring you the latest performance improvements and bug fixes for the best experience.
+
+What’s new in XPotter.
+
 We're updating XPotter regularly. Check back here to see the latest improvements and newest features.  
 
-## Nov 30 2019
+## Dec 20 2019 - 1.0.1
+
+- Rebuild some core libraries.
+
+## Nov 30 2019 - 1.0.0
 
 First publish
 

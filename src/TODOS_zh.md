@@ -1,19 +1,32 @@
 # TODOS
 
-## Useful min tools
-
+## 1. Useful min tools 非常使用的小工具
 
 - `CRLF to LF`:
 
-   see: https://www.npmjs.com/package/crlf2lf
+   > see: https://www.npmjs.com/package/crlf2lf
 
 - `Iconizer`:
 
-   see: https://github.com/raphaelhanneken/iconizer
+   > see: https://github.com/raphaelhanneken/iconizer
 
 - `CommandCodeToShellFile`:
 
-## ref
+## 2. Pages 页面需要添加的内容
+
+* Welcome to XPotter
+
+  > 参见： XCode 11. 菜单 Menu -> Windows -> Welcome  to XCode
+  > 
+  >  * 显示最近的文档
+  >  *
+
+* Plugin/App Manager
+
+* About XPotter
+  > 参见： XCode 11. 菜单 Menu -> Windows -> Welcome  to XCode
+
+## 9. Ref 引用
 
 ### [CotEditor](https://github.com/lauer3912/CotEditor)
 
